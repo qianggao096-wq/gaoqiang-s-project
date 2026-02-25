@@ -4,20 +4,20 @@
   "description": "AI文玩鉴赏器 - 基于AI模型的文玩识别和鉴赏系统",
   "private": true,
   "dependencies": {
+    "@ant-design/icons": "^5.2.0",
     "@types/node": "^20.0.0",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
+    "@types/styled-components": "^5.1.0",
+    "antd": "^5.12.0",
+    "axios": "^1.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "typescript": "^5.0.0",
-    "web-vitals": "^3.0.0",
-    "axios": "^1.6.0",
-    "antd": "^5.12.0",
-    "@ant-design/icons": "^5.2.0",
     "react-dropzone": "^14.2.0",
+    "react-scripts": "5.0.1",
     "styled-components": "^6.1.0",
-    "@types/styled-components": "^5.1.0"
+    "typescript": "4.9.5",
+    "web-vitals": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
